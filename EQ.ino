@@ -2,7 +2,7 @@
 // This basic equalizer project requires Grove Kit Base Shield, Grove Kit Sound Sensor and Libraries, an RGB LED (3 seperate LEDs can be used aswell) and a development board which supports the shield such as Intel Edison™ or Arduino™ Mega etc. 
 // RGB LED pins are 4 - 2,3 - 1 respectively. There are 2 green LED lights. A0 Analog pin is used for the Grove Sound Sensor. 
 // Okadar ingilizce yazdım yazık.
-// Nickelback <3 (kek)
+// 2018 "Useless"
 
 #include <Wire.h>
 #include "rgb_lcd.h"
